@@ -55,11 +55,77 @@ a {
     color: #404bbf;
 }
 
+.hero {
+    background-color: #2e2f42;
+    width: 1440px;
+    height: 600px;
+}
+
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-button {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.hero-button:hover {
+    background-color: #404bbf;
+}
+
+.feature {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.feature-title {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.team-page {
+    background-color: #f4f4fd;
+}
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.fon-img {
+    background-color: #fff;
+    width: 264px;
+    height: 380px;
+}
+
 /* footer */
 .page-footer {
     background-color: #2e2f42;
 }
 
 .footer-logo .logo-part {
+    color: #f4f4fd;
+}
+
+.page-footer-title {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #f4f4fd;
 }
